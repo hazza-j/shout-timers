@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Druk';
+    src: url('../assets/Druk-Medium-Trial.woff2') format('woff2'),
+         url('../assets/Druk-Medium-Trial.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.timer {
+    font-size: 2em;
+    margin: 20px;
+}
+body {
+    background-color: black;
+    color: white;
+    font-size: 36pt;
+    font-family: 'Druk', 'Courier New', Courier, monospace;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+}
+h1 {
+    margin: 20px;
+    font-size: 96pt;
+    letter-spacing: 5px; /* Added property */
+}
+@media (max-width: 1200px) {
+    h1 {
+        font-size: 72pt;
+    }
+    .timer {
+        font-size: 1.5em;
+    }
+}
+@media (max-width: 800px) {
+    h1 {
+        font-size: 48pt;
+    }
+    .timer {
+        font-size: 1.2em;
+    }
+}
+@media (max-width: 500px) {
+    h1 {
+        font-size: 36pt;
+    }
+    .timer {
+        font-size: 1em;
+    }
+}
