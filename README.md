@@ -17,7 +17,7 @@ project-root/
     └── Druk-Medium-Trial.woff
 ```
 ## Usage
-- View the Timer ['here']('https://hazza-j.github.io/shout-timers/')
+- View the Timer [here](https://hazza-j.github.io/shout-timers/)
 - The countdown timer will automatically start and display the time remaining until SHOUT 2024.
 
 ## Setup Instructions
