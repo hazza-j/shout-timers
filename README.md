@@ -18,10 +18,7 @@ project-root/
 ```
 
 ## Setup Instructions
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/countdown-to-shout-2024.git
-    ```
+1. Clone the repository
 2. Open [`index.html`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Fharrisonwarahi%2FOneDrive%20-%20Auckland%20City%20Training%20School%2F08_Projects%2F02_Shout%20Countdown%2Fshout-timers%2Findex.html%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%2C%22d715a5ad-745e-4b07-a4cd-749076145f98%22%5D "c:\Users\harrisonwarahi\OneDrive - Auckland City Training School\08_Projects\02_Shout Countdown\shout-timers\index.html") in a web browser.
 
 ## Usage
